@@ -1,5 +1,9 @@
 # Changelog
 
+## [v1.3.2](https://github.com/Teralogics/http-proxy-middleware/releases/tag/v1.3.2)
+
+- Updates dependency version to patch issue in node-http-proxy.
+
 ## [v1.3.1](https://github.com/chimurai/http-proxy-middleware/releases/tag/v1.3.1)
 
 - fix(fix-request-body): make sure the content-type exists ([#578](https://github.com/chimurai/http-proxy-middleware/pull/578)) ([oufeng](https://github.com/oufeng))
