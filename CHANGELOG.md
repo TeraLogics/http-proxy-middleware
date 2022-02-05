@@ -1,5 +1,9 @@
 # Changelog
 
+## [v1.3.2](https://github.com/Teralogics/http-proxy-middleware/releases/tag/v1.3.3)
+
+- Make package.json changes to support publishing to a private registry.
+
 ## [v1.3.2](https://github.com/Teralogics/http-proxy-middleware/releases/tag/v1.3.2)
 
 - Updates dependency version to patch issue in node-http-proxy.
